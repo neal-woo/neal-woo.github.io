@@ -8,7 +8,7 @@ body {
 
 .img-circle {
     border-radius: 50%;
-    padding-left: 0px;
+    padding-left: 20px;
     padding-right: 35px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -18,7 +18,7 @@ body {
 
 .main-name {
   color: #222222;
-  font-size: 20px;
+  font-size: 18px;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
