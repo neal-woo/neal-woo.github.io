@@ -6,8 +6,8 @@ body {
   font-weight:400;
 }
 
-.link-bar {
-  border-right: thick solid #ff0000;
+.link-header {
+  border-right: thick solid #000000;
 }
 
 .img-circle {
