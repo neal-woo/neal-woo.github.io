@@ -10,8 +10,8 @@ body {
  display: inline-block;
  width: 0;
  height: 1em;
- border-left: 10px solid #ccc;
- border-right: 10px solid #ccc;
+ border-left: 10px solid #000000;
+ border-right: 10px solid #000000;
 }
 
 .link-header {
