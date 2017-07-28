@@ -7,8 +7,8 @@ body {
 }
 
 .link-header {
-  border-right: solid #000000;
-  border-right-width: 20px;
+  border-right: solid #c0fff7;
+  border-right-width: 15px;
 }
 
 .img-circle {
@@ -83,6 +83,7 @@ a:hover small {
 
 .wrapper {
   width:860px;
+  height:1000px;
   margin:0 auto;
 }
 
