@@ -6,6 +6,14 @@ body {
   font-weight:400;
 }
 
+.divider {
+ display: inline-block;
+ width: 0;
+ height: 1em;
+ border-left: 10px solid #ccc;
+ border-right: 10px solid #ccc;
+}
+
 .link-header {
   border-right: solid #c0fff7;
   border-right-width: 15px;
